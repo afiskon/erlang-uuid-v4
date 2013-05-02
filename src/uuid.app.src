@@ -1,0 +1,12 @@
+{application, uuid,
+ [
+  {description, "UUID v4 in pure Erlang"},
+  {vsn, "0.1.1"},
+  {registered, []},
+  {applications, [
+                  kernel,
+                  stdlib
+                 ]},
+  {mod, { uuid_app, []}},
+  {env, []}
+ ]}
