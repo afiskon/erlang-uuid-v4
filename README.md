@@ -25,7 +25,7 @@ Usage:
      <<"8af19410-c9e5-41d0-ac82-aaa8e6fd6b2f">>,
      <<"8335ca05-5c63-4850-971e-357e843f2d79">>]
 
-See also: [http://en.wikipedia.org/wiki/UUID][1]
+See also: [https://en.wikipedia.org/wiki/UUID][1]
 
 
-  [1]: http://en.wikipedia.org/wiki/UUID
+  [1]: https://en.wikipedia.org/wiki/UUID
